@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.oliverkuchies.cleancommit.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.oliverkuchies.cleancommit.MyBundle
 
 class MyApplicationService {
 
